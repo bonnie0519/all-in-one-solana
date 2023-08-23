@@ -71,3 +71,6 @@ sidebar_class_name: green
 - [随机性](./module6/randomness/README.md)
 
 - [最后的作品](./module6/finishing-touches/README.md)
+
+# 参考资料
+- [intro](./Solana-Co-Learn/intro.md)
